@@ -1,3 +1,3 @@
-## Azis Hafish
-## 20210801142
-## Teknik Informatika
+## Nama : Azis Hafish
+## NIM : 20210801142
+## Simulasi UAS Jarkom
